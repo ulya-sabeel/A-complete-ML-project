@@ -1,6 +1,6 @@
 This dataset is downloaded from:
 
-https://www.kaggle.com/faressayah/practical-introduction-to-10-regression-algorithm/data?select=USA_Housing.csv
+https://www.kaggle.com/datasets/vedavyasv/usa-housing
 
 The data contains the following columns:
 
